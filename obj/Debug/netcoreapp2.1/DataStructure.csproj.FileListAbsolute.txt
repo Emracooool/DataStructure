@@ -1,0 +1,11 @@
+D:\Solution\BinarySearchTree\bin\Debug\netcoreapp2.1\DataStructure.deps.json
+D:\Solution\BinarySearchTree\bin\Debug\netcoreapp2.1\DataStructure.runtimeconfig.json
+D:\Solution\BinarySearchTree\bin\Debug\netcoreapp2.1\DataStructure.runtimeconfig.dev.json
+D:\Solution\BinarySearchTree\bin\Debug\netcoreapp2.1\DataStructure.dll
+D:\Solution\BinarySearchTree\bin\Debug\netcoreapp2.1\DataStructure.pdb
+D:\Solution\BinarySearchTree\obj\Debug\netcoreapp2.1\DataStructure.csprojAssemblyReference.cache
+D:\Solution\BinarySearchTree\obj\Debug\netcoreapp2.1\DataStructure.csproj.CoreCompileInputs.cache
+D:\Solution\BinarySearchTree\obj\Debug\netcoreapp2.1\DataStructure.AssemblyInfoInputs.cache
+D:\Solution\BinarySearchTree\obj\Debug\netcoreapp2.1\DataStructure.AssemblyInfo.cs
+D:\Solution\BinarySearchTree\obj\Debug\netcoreapp2.1\DataStructure.dll
+D:\Solution\BinarySearchTree\obj\Debug\netcoreapp2.1\DataStructure.pdb

@@ -1,0 +1,11 @@
+D:\Solution\BinarySearchTree\bin\Debug\netcoreapp2.1\BinarySearchTree.deps.json
+D:\Solution\BinarySearchTree\bin\Debug\netcoreapp2.1\BinarySearchTree.dll
+D:\Solution\BinarySearchTree\bin\Debug\netcoreapp2.1\BinarySearchTree.pdb
+D:\Solution\BinarySearchTree\obj\Debug\netcoreapp2.1\BinarySearchTree.csprojAssemblyReference.cache
+D:\Solution\BinarySearchTree\obj\Debug\netcoreapp2.1\BinarySearchTree.csproj.CoreCompileInputs.cache
+D:\Solution\BinarySearchTree\obj\Debug\netcoreapp2.1\BinarySearchTree.AssemblyInfoInputs.cache
+D:\Solution\BinarySearchTree\obj\Debug\netcoreapp2.1\BinarySearchTree.AssemblyInfo.cs
+D:\Solution\BinarySearchTree\obj\Debug\netcoreapp2.1\BinarySearchTree.dll
+D:\Solution\BinarySearchTree\obj\Debug\netcoreapp2.1\BinarySearchTree.pdb
+D:\Solution\BinarySearchTree\bin\Debug\netcoreapp2.1\BinarySearchTree.runtimeconfig.json
+D:\Solution\BinarySearchTree\bin\Debug\netcoreapp2.1\BinarySearchTree.runtimeconfig.dev.json
