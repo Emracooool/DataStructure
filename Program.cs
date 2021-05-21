@@ -16,8 +16,13 @@ namespace DataStructure
         {
             try
             {
+                var a = ModFunction.ModCombine(40, 4, new System.Numerics.BigInteger(101));
+                Console.WriteLine(a);
+
+                Console.WriteLine(40*39*38*37/24%101);
+
                 var p = new Permute();
-                p.PrintPermute(8, 3);
+                //p.PrintPermute(8, 3);
 
             }
             catch (Exception ex)
